@@ -9,7 +9,7 @@ Para este ejercicio voy a utilizar como ejemplo una aplicación que desarrollé 
 
 Esta aplicación está desarrollada en Java, empleando una arquitectura de modelo-vista-controlador, ya que el usuario interactuava directamente con la interfaz de usuario que esta a su vez transmitía la acción realizada al controlador que es el encargado de realizar el funcionamiento del proceso.
 
-Para evolucionar la arquitectura de esta aplicación a una arquitectura de microservicios, debemos independizar las distintas funcionalidades de nuestra aplicación en distintas Apir Rest que funcionen como servicios diferentes que componen nuestra aplicación.
+Para evolucionar la arquitectura de esta aplicación a una arquitectura de microservicios, debemos independizar las distintas funcionalidades de nuestra aplicación en distintas Api Rest que funcionen como servicios diferentes que componen nuestra aplicación.
 
 
 #### Ejercicio 2: En la aplicación que se ha usado como ejemplo en el ejercicio anterior, ¿podría usar diferentes lenguajes? ¿Qué almacenes de datos serían lo más convenientes?
